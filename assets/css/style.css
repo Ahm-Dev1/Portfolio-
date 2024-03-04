@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/Ahmad2.jpeg") top center;
+  background: url("../img/2.jpg") top center;
   background-size: contain;
   background-position: center;
   
@@ -1106,4 +1106,18 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+
+.Email-Send-button{
+  padding: 5px;
+  background-color:#1489c0 ;
+  color: white;
+  border: 1px solid rgba(5, 13, 24, 0.08);
+  border-radius: 10px;
+  transition: all 0.1s;
+}
+
+.Email-Send-button:hover{
+  scale: 1.03;
 }
