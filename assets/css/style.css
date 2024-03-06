@@ -12,6 +12,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  background-color: whitesmoke;
 }
 
 a {
@@ -81,6 +82,10 @@ h6 {
   padding: 0 15px;
   background: #040b14;
   overflow-y: auto;
+}
+
+.profile{
+  padding-top: 140px;
 }
 
 #header .profile img {
